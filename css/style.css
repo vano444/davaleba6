@@ -1,0 +1,155 @@
+html. body {
+	max-width: 1366px;
+	width: 100%;
+}
+.size {
+	max-width: 1170px;
+	width: 100%;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 24pt;
+	margin-top: -5px;
+	margin-bottom: 25px;
+	display: block;
+}
+.header {
+	padding: 20px 0px;
+}
+.logo {
+	width: 200px;
+	float: left;
+	vertical-align: middle;
+}
+.header-nav {
+	float: right;
+	vertical-align: middle;
+	display: inline-block;
+}
+.header-li {
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 15px;
+}
+.header-li a {
+
+	color: #3D58A6;
+	font-size: 24pt;
+}
+.header-clear {
+	content: "";
+	clear: both;
+}
+section {
+	padding: 100 0;
+}
+
+.grey {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #E6E6E6;
+}
+.banner {
+	width: 100%;
+}
+
+
+
+.blue {
+	background-color: #363E97;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+
+.aqua {
+	background-color: #BDCCD4;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.aqua-h1 {
+	color: #3D58A6;
+}
+.box {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+}
+.box:last-child {
+	margin-right: 0;
+}
+.box h6 {
+	font-size: 22pt;
+	color: #333333;
+	background-color: #E6E6E6;
+	text-align: center;
+	line-height: 50px;
+	margin-bottom: 50px;
+}
+
+
+
+.white {
+	background-color: #E6E6E6;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.white h2 { 
+	color: #3D58A6;
+	font-size: 22pt;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+.white h4 {    
+	display: inline-block;
+	font-size: 20pt;
+	color: #333333;
+	vertical-align: top;
+	width: 350px;
+}
+.white-clear {
+	content: "";
+	clear: both;
+}
+.featured-background-left {
+	display: inline-block;
+	background-color: #F2F2F2;
+	float: left;
+	padding: 15px;
+
+}
+.featured-background-left h2 {
+	margin-left: 35px;
+}
+.hand {
+	width: 100px;
+	vertical-align: middle;
+	margin-right: 60px;
+	margin-left: 25px;
+}
+
+.featured-background-right{
+	display: inline-block;
+	background-color: #F2F2F2;
+	float: right;
+	padding: 15px;
+}
+.phone {
+	width: 80px;
+	margin: 10px 50px;
+}
+.more {
+	font-size: 14pt;
+	color: #3D58A6;
+	float: right;
+	margin-top: 10px;
+}
+iframe {
+	width: 570px;
+	height: 320px;
+}
+
+
+
+
